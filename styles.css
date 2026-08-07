@@ -1,3 +1,7 @@
+*{
+    outline: 1px solid red;
+}
+
 body{
     background-color: bisque;
 }
@@ -12,7 +16,7 @@ body{
     font-size: 40px;
 }
 
-.link{
+.link-text{
     text-decoration: none;
     font-size: 36px;
     color: black;
@@ -20,9 +24,20 @@ body{
 
 img{
     width: 500px;
+    height: 450px;
 }
 
 
 
+div{
+    display: inline;
+    margin: 0;
+    width: 500px;
+}
 
+a{
+    display: block;
+    margin: 0;
+    width: 500px;
+}
 
