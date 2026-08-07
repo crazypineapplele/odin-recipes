@@ -35,23 +35,17 @@ img{
     margin: 20px auto;
 }
 
-p{
+p, ul, ol{
     margin: 0;
     padding: 0;
 }
 
-.grouping{
-    font-size: 30px;
-    margin-top: 20px;
-}
 
 li{
     margin: 15px auto;
 }
 
 ul, ol{
-    margin: 0;
-    padding: 0;
     list-style-position: inside;
 }
 
